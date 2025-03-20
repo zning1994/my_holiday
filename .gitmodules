@@ -1,0 +1,12 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:zning1994/my_holiday_app.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:zning1994/my_holiday_backend.git
+[submodule "infra"]
+	path = infra
+	url = git@github.com:zning1994/my_holiday_infra.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:zning1994/my_holiday_docs.git
