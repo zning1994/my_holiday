@@ -1,0 +1,6 @@
+localnote.txt
+*.env
+config.env
+localnote.txt
+.aider*
+config.env
